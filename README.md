@@ -1,2 +1,2 @@
 # EM_HW
-Exercises for Eric Matthes book
+Exercises from book of Eric Matthes
